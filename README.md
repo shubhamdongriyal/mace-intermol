@@ -2,7 +2,7 @@
 To install this modified version of MACE with support for intermolecular force loss:
 
 ```bash
-cd mace-intermol-intermol-loss
+cd mace-intermol-intermol_loss
 pip install .
 ```
 
