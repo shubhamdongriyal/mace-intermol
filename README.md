@@ -1,4 +1,9 @@
 # Intermolecular Loss Extension for MACE
+To install this modified version of MACE with support for intermolecular force loss:
+
+```bash
+cd mace-intermol-intermol-loss
+pip install .
 
 This repository contains modifications to `mace/modules/loss.py` for incorporating **intermolecular force loss** during training of MACE models. 
 
