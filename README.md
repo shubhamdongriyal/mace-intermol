@@ -8,7 +8,7 @@ This repository contains modifications to `mace/modules/loss.py` for incorporati
 
 Three key functions have been added/modified:
 
-### 🔧 `WeightedEnergyForceIntermolForceLoss`
+### `WeightedEnergyForceIntermolForceLoss`
 
 - Computes a **total weighted loss** combining:
   - Force loss
@@ -33,9 +33,3 @@ Three key functions have been added/modified:
 
 ---
 
-
----
-
-## 📬 Questions?
-
-Feel free to open an [Issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) or contact us for clarifications and contributions.
